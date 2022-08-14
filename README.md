@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Murage</h1>
-<h3 align="center">A passionate Android developer from Kenya</h3>
+<h3 align="center">A passionate Android developer</h3>
 
 - 🔭 I’m currently working on **Android Baseball League App and Penny Drop Game App**
-
-- 🌱 I’m currently learning **Android Jetpack**
-
-- 👯 I’m looking to collaborate on **Shop App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Brandonbukeke](https://github.com/Brandonbukeke)
 
